@@ -1,0 +1,14 @@
+{
+  "name": "strtolower-dojo-lisbon-march-20",
+  "version": "1.0.0",
+  "description": "",
+  "main": "strToLower.js",
+  "scripts": {
+    "test": "mocha strToLower.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^7.1.1"
+  }
+}
